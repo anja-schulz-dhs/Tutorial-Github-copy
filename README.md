@@ -4,10 +4,8 @@
 
 <div>
 
-Bildung für alle!
-==============
+Bildung für alle! Open Educational Resources für die eigene Lehre finden, bearbeiten und teilen
 
-## Open Educational Resources für die eigene Lehre finden, bearbeiten und teilen
 
 ```
 Abbildung: https://selbstgesteuertes-lernen.de/
