@@ -1,63 +1,60 @@
 <!-- Slide number: 1 -->
 # OER für die eigene Lehre bearbeiten und teilen
 Anne Vogel, Dr. Jana Riedel & Dr. Anja Schulz
+
 Projekt „Digitalisierung der Hochschulbildung in Sachsen“
-16. April 2025
+
+16.04.2025
+
 
 <!-- Slide number: 2 -->
-01.04.2025
-DIGITAL WORKSPACE
-2
+
+## Tagesablauf
 
 10:00-10:30
 Einstieg
+
 10:30-11:00
 Tipps zur Lizenzierung und frei zugängliche Werkzeuge zur OER-Bearbeitung
+
 11:00-13:15
 Bearbeitung eigener OER-Materialien
-+ Möglichkeit für individuelle Beratungen
-+ individuelle Mittagspause
+- Möglichkeit für individuelle Beratungen
+- individuelle Mittagspause
+
 13:15-14:15
 Hinweise zum Veröffentlichen eigener OER
+
 14:15-14:45
 Erfahrungsberichte zur Nutzung der Bearbeitungstools
+
 14:45-15:00
 Abschluss
-TAGESABLAUF
+
+
 
 <!-- Slide number: 3 -->
-01.04.2025
-DIGITAL WORKSPACE
-3
 
-LERNZIELE
+## LERNZIELE
 Nach Abschluss des Workshops können die Teilnehmer*innen ...
 
-Aus einer Vielzahl an kostenfreien Softwareprodukten wählen
-
-mit verschiedenen Tools eigene OER erstellen.
-
-relevante Suchorte für OER identifizieren.
-
-existierende OER auf einschlägigen Portalen finden.
-
-Damit fremde OER verändern, OER remixen und neu lizenzieren.
+- Aus einer Vielzahl an kostenfreien Softwareprodukten wählen
+- mit verschiedenen Tools eigene OER erstellen.
+- relevante Suchorte für OER identifizieren.
+- existierende OER auf einschlägigen Portalen finden.
+- Damit fremde OER verändern, OER remixen und neu lizenzieren.
 
 <!-- Slide number: 4 -->
-01.04.2025
-DIGITAL WORKSPACE
-4
 
-Warm-Up
-
-<!-- Slide number: 5 -->
-01.04.2025
-DIGITAL WORKSPACE
-5
+## Warm-Up
 
 kleiner
 WISSENSTEST
+
 Sie haben folgendes Video auf EDUdigitaLE gefunden:
+
+![Badminton Beispiel](media/Badminton.png)
+
 Dürfen Sie es weiterverwenden und bearbeiten?
 
 ![Ein Bild, das Text, Schrift, Logo, Grafiken enthält.
@@ -65,32 +62,17 @@ Dürfen Sie es weiterverwenden und bearbeiten?
 Automatisch generierte Beschreibung](Grafik13.jpg)
 Die Universität Leipzig hat eine OER-Plattform für Unterrichtsmaterialien: EDUdigitaLE https://www.oer.uni-leipzig.de/
 
-### Notes:
-Dieses: Ja. Mit Namensnennung unter gleichen Bedingungen.
-Alle Materialien auf EDUdigitaLE sind unter einer CC BY-SA Lizenz
-Dieses Video: “Digitale Badminton Stationen“ von Universität Leipzig (Famulla, Kaiser, Krohn, Päckert & Schüller) ist lizenziert unter CreativeCommons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 Lizenz
-
 <!-- Slide number: 6 -->
-01.04.2025
-DIGITAL WORKSPACE
-6
 
-kleiner
-WISSENSTEST
+## kleiner WISSENSTEST
+
 Sie haben folgendes Video auf EDUdigitaLE gefunden:
+
 Was fehlt bei dieser Quellenangabe?
 “Digitale Badminton Stationen“ von Universität Leipzig (Famulla, Kaiser, Krohn, Päckert & Schüller) ist lizenziert unter CreativeCommons Namensnennung – Weitergabe unter gleichen Bedingungen
 
-### Notes:
-Die Versionsangabe der Lizenz 4.0
-(ggf. auch der Link zum Material und
-der Link zur CC-Lizenz)
-Dieses Video: “Digitale Badminton Stationen“ (https://oer.uni-leipzig.de/materialien/badminton/) von Universität Leipzig (Famulla, Kaiser, Krohn, Päckert & Schüller) ist lizenziert unter CreativeCommons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 Lizenz (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 <!-- Slide number: 7 -->
-01.04.2025
-DIGITAL WORKSPACE
-7
 
 ![Ein Bild, das Text, Elektronik, Screenshot, Webseite enthält.
 
