@@ -21,6 +21,6 @@ Welche dieser wunderbaren DDR-Memorabilia werden heute noch hergestellt?
 
 Und hier kommt dein Applaus: 
 
-!? [](https://github.com/user-attachments/assets/4e90f687-c471-4c30-b211-a604a2eddae8)
+!?[](https://github.com/user-attachments/assets/4e90f687-c471-4c30-b211-a604a2eddae8)
 
 ********************************************************************
