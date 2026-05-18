@@ -17,6 +17,6 @@ Welche dieser wunderbaren DDR-Memorabilia werden heute noch hergestellt?
 
 Und hier kommt dein Applaus: 
 
-!? [Video von Anja & Anja](media/Happy Birthday.mp4)
+!?[](media/Happy Birthday.mp4)
 
 ********************************************************************
