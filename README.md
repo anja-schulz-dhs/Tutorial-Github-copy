@@ -1,3 +1,7 @@
+
+
+
+
 # LIEBER SEBASTIAN, ZUM GEBURTSTAG EIN QUIZ FÜR DICH :-)
 
 Welche dieser wunderbaren DDR-Memorabilia werden heute noch hergestellt?
@@ -17,6 +21,6 @@ Welche dieser wunderbaren DDR-Memorabilia werden heute noch hergestellt?
 
 Und hier kommt dein Applaus: 
 
-!?[](media/Happy Birthday.mp4)
+!?[](media/Happy Birthday.mp4](https://github.com/user-attachments/assets/4e90f687-c471-4c30-b211-a604a2eddae8)
 
 ********************************************************************
